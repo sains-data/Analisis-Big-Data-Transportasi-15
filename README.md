@@ -57,9 +57,4 @@ Menggunakan metode **Waterfall**, dimulai dari:
 
 ---
 
-## ▶️ Cara Menjalankan Project
 
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/username/repo-ini.git
-   cd repo-ini
